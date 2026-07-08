@@ -14,7 +14,7 @@
 
 ## 🎀 about me
 
-- 🌷 front-end developer & student, currently juggling **Dian Nuswantoro University** and **freelance web dev** — send snacks
+- 🌷 front-end developer & student, currently juggling **Dian Nuswantoro University** — send snacks
 - 💻 I don't just finish assignments, I _ship_ them: full apps, docs, diagrams, the whole cute little package
 - 🛠️ hands-on builder — I dive straight into implementation and debug my way to the finish line
 - 📚 sharpening database design + OOP fundamentals in between deploys
