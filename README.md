@@ -115,3 +115,7 @@ Chicken disease screening app using image analysis + AI-generated insights — y
 </div>
 
 <p align="center">thanks for stopping by 🎀 — now go build something cute</p>
+
+</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:C1B2FF,50:E6C0F5,100:FFC1CC&height=120&section=footer" width="100%"/>
+<p align="center">thanks for stopping by 🎀 — now go build something cute</p>
