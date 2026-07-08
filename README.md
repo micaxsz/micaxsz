@@ -61,7 +61,7 @@ Chicken disease screening app using image analysis + AI-generated insights — y
 ## ✨ tech stack
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,laravel,php,java,python,mysql,tailwind,git,github,figma,vscode" />
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,figma,shadcn,vscode,supabase" />
 </div>
 
 <br>
@@ -108,8 +108,6 @@ Chicken disease screening app using image analysis + AI-generated insights — y
 </div>
 
 <div align="center">
-
-<a href="https://github.com/micaxsz"><img src="https://img.shields.io/badge/GitHub-FF6FB5?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="mailto:diassafiramdd@gmail.com"><img src="https://img.shields.io/badge/Email-FF6FB5?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://instagram.com/diassafiram"><img src="https://img.shields.io/badge/Instagram-FF6FB5?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 <a href="https://linkedin.com/in/diassafiram"><img src="https://img.shields.io/badge/LinkedIn-FF6FB5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
